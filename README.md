@@ -1,1 +1,1 @@
-# mynewrepository
+# mynewrepository is awesome!
